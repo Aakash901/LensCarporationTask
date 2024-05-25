@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LensCarporation</string>
+
+    <string name="highlighted_texts">Lorem Ipsum The national single window system has access to over 100 central level approvals and state single window systems of 14 states/uTs with one user Id and password
+Lorem Ipsum The national single window system has access to over 100 central level approvals and state single window systems of 14 states/uTs with one user Id and password
+Lorem Ipsum The national single window system has access to over 100 central level approvals and state single window systems of 14 states/uTs with one user Id and password</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="images">Followings Are The Images From The Recent Event \nHeld On Friday,19th January Regarding EMC/AGM</string>
+    <string name="events">Hello blank fragment</string>
+    <string name="vission">Indian Railways Promotee Officers Federation (IRPOF) Is An Organization Of Promotee Officers Having Its Head Quarter At New Delhi.</string>
+    <string name="irpof_text">Indian Railways Promotee Officers Federation (IRPOF) Is An Organization Of Promotee Officers Having Its Head Quarter At New Delhi. It Functions Through Its Member Associations. Zonal Associations Functions Through Divisional Bodies Across All The 69 Divisions Of Indian Railways. The Aim Of The Federation Is To Safeguard Interests Of Promotee Officers And Provide Better Career Opportunities And Working Conditions. It Works For Development And Promoting Overall Efficiency In The Working Of Railways In The Best Interest Of Common People, The Nation And The Railway Men.
+       \n\n IRPOF Has Launched This Site To Keep Its Member Informed About The, Latest Activities And Share Views On Topics Of Importance. All The Members Are Requested To Kindly Contribute To Make The Site Useful And Meaningful</string>
+    <string name="irpof">Indian Railway \n\nPromotee Officers \n\nFederation (IRPOF)</string>
+    <string name="Mission">Mission &amp; Vision</string>
+    <string name="highlight"> Latest \n Headlines</string>
+    <string name="email">42622924(DoT),030-224-030-20(Rly.)</string>
+    <string name="call">dummy@railway.com\ndummy2@gmail.com</string>
+    <string name="pdf">Scanned: \nCopy</string>
+    <string name="typepdf">Download \nPDF</string>
+    <string name="pdfcopy">Type: \npdf</string>
+    <string name="address">208/A-4, Railway Colony Basant \nLane, Pahar Ganj, Delhi 110055</string>
+</resources>
